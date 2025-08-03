@@ -1,0 +1,9 @@
+```txt
+pandas
+numpy
+tensorflow
+scikit-learn
+mysql-connector-python
+joblib
+tk
+openpyxl
